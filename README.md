@@ -1,4 +1,6 @@
-# Artex_Tello
+# Artex Tello
 Testflüge Tello Dienstagvormittag
 
-Karin Güdel 
+## Team Members
+- Karin Güdel 
+- Samuel Lupica

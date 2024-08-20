@@ -4,3 +4,4 @@ Testflüge Tello
 Team Members
 
 Noa Walser
+Karin Güdel 
